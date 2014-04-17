@@ -3,7 +3,7 @@
     "version" : "1.0.0",
     "author" : "github:retupmoca",
     "description" : "Generic HMAC implementation",
-    "depends" : [],
+    "depends" : [ "Digest" ],
     "provides" : {
         "Digest::HMAC" : "lib/Digest/HMAC.pm6"
     },
