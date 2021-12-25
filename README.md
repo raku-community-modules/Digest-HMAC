@@ -1,4 +1,4 @@
-P6-Digest-HMAC
+P6-Digest-HMAC [![Test in a Raku container](https://github.com/raku-community-modules/P6-Digest-HMAC/actions/workflows/test.yaml/badge.svg)](https://github.com/raku-community-modules/P6-Digest-HMAC/actions/workflows/test.yaml)
 ==============
 
 ## Example Usage ##
